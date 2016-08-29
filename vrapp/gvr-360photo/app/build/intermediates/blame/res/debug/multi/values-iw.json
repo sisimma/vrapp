@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\values-iw\\values-iw.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 95,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 95,
+                        "endOffset": 419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 77,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 424,
+                        "endColumn": 77,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 149,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 149,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 131,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endColumn": 131,
+                        "endOffset": 779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 76,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 784,
+                        "endColumn": 76,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endColumn": 82,
+                    "endOffset": 716
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 82,
+                        "endOffset": 939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 721,
+                    "endColumn": 179,
+                    "endOffset": 896
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 944,
+                        "endColumn": 179,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 901,
+                    "endColumn": 195,
+                    "endOffset": 1092
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1124,
+                        "endColumn": 195,
+                        "endOffset": 1315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 97,
+                    "endOffset": 1190
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1320,
+                        "endColumn": 97,
+                        "endOffset": 1413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1195,
+                    "endColumn": 109,
+                    "endOffset": 1300
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1418,
+                        "endColumn": 109,
+                        "endOffset": 1523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1305,
+                    "endColumn": 103,
+                    "endOffset": 1404
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1528,
+                        "endColumn": 103,
+                        "endOffset": 1627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1409,
+                    "endColumn": 131,
+                    "endOffset": 1536
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1632,
+                        "endColumn": 131,
+                        "endOffset": 1759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1541,
+                    "endColumn": 157,
+                    "endOffset": 1694
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1764,
+                        "endColumn": 157,
+                        "endOffset": 1917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1699,
+                    "endColumn": 100,
+                    "endOffset": 1795
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1922,
+                        "endColumn": 100,
+                        "endOffset": 2018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1800,
+                    "endColumn": 75,
+                    "endOffset": 1871
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2023,
+                        "endColumn": 75,
+                        "endOffset": 2094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1876,
+                    "endColumn": 83,
+                    "endOffset": 1955
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2099,
+                        "endColumn": 83,
+                        "endOffset": 2178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1960,
+                    "endColumn": 97,
+                    "endOffset": 2053
+                },
+                "from": {
+                    "file": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2183,
+                        "endColumn": 97,
+                        "endOffset": 2276
+                    }
+                }
+            }
+        ]
+    }
+]

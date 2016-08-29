@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_settings_48dp.png",
+        "source": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable\\ic_settings_48dp.png"
+    },
+    {
+        "merged": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rippleable.xml",
+        "source": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable\\rippleable.xml"
+    }
+]

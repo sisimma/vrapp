@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\work\\vrapp\\gvr-360photo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_arrow_upward_white_24.png",
+        "source": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-hdpi-v4\\quantum_ic_arrow_upward_white_24.png"
+    },
+    {
+        "merged": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\transition.png",
+        "source": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-hdpi-v4\\transition.png"
+    },
+    {
+        "merged": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png",
+        "source": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-hdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_arrow_back_white_24.png",
+        "source": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-hdpi-v4\\quantum_ic_arrow_back_white_24.png"
+    },
+    {
+        "merged": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quantum_ic_arrow_downward_white_24.png",
+        "source": "C:\\work\\vrapp\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-hdpi-v4\\quantum_ic_arrow_downward_white_24.png"
+    }
+]

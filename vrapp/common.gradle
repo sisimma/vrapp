@@ -1,0 +1,36 @@
+allprojects {
+    repositories {
+        jcenter()
+        flatDir {
+            dirs '../../gearvrf-libs'
+        }
+    }
+}
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 19
+    }
+}
+
+task copyOculusSignature(type: Copy) {
+    if (rootProject.hasProperty("OCULUS_SIGS_DIRECTORY")) {
+        copy {
+            from rootProject.property("OCULUS_SIGS_DIRECTORY")
+            into 'src/main/assets'
+            include 'oculussig_*'
+        }
+    }
+}
+
+preBuild {}.dependsOn copyOculusSignature
+
+dependencies {
+    compile(name: 'framework-debug', ext: 'aar')
+    compile(name: 'google-vr-base', ext: 'aar')
+    compile(name: 'google-vr-common', ext: 'aar')
+}

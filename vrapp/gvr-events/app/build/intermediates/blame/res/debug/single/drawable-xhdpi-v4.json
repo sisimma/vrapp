@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_arrow_downward_white_24.png",
+        "source": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-xhdpi-v4\\quantum_ic_arrow_downward_white_24.png"
+    },
+    {
+        "merged": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_arrow_upward_white_24.png",
+        "source": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-xhdpi-v4\\quantum_ic_arrow_upward_white_24.png"
+    },
+    {
+        "merged": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\__default_splash_screen__.png",
+        "source": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\drawable-xhdpi-v4\\__default_splash_screen__.png"
+    },
+    {
+        "merged": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_settings_white_24.png",
+        "source": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-xhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quantum_ic_arrow_back_white_24.png",
+        "source": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-xhdpi-v4\\quantum_ic_arrow_back_white_24.png"
+    }
+]

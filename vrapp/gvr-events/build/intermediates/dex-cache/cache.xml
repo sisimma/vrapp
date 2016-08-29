@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\exploded-aar\framework-debug\jars\libs\js.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f272d70d5a2de5c1bb45730108b517182a7a745d">
+        <dex dex="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\transforms\dex\debug\folders\1000\10\js_9b253ca1f3e12fdd93e725e994e5524cbf3deebe\classes.dex" />
+    </item>
+    <item
+        jar="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\exploded-aar\framework-debug\jars\libs\SystemUtils.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6512812d0c62998ba72f1ef88a7565d6f3e0296d">
+        <dex dex="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\transforms\dex\debug\folders\1000\10\SystemUtils_de0a74daa6bdc499f4d2ae6c6745528f479c50e7\classes.dex" />
+    </item>
+    <item
+        jar="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\exploded-aar\framework-debug\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5d21caed62c7854755231a584643352e6688c4ea">
+        <dex dex="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-framework-debug_b9ab4f12cc0a7fbb605cd9643e0b8fc6d221004e\classes.dex" />
+    </item>
+    <item
+        jar="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\exploded-aar\google-vr-common\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="47e44d401381cce999daa79acb342e760615712c">
+        <dex dex="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-google-vr-common_a2b24d4de264f3a7c7cea0f54f80a532d101f097\classes.dex" />
+    </item>
+    <item
+        jar="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\exploded-aar\framework-debug\jars\libs\jline-android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ab20e268c077090f6f06dceaf129a49087e29945">
+        <dex dex="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\transforms\dex\debug\folders\1000\10\jline-android_6f6ad1aa58f9977e52d1ebe7748d433379b52339\classes.dex" />
+    </item>
+    <item
+        jar="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\exploded-aar\framework-debug\jars\libs\jsr223.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="042c7c12624e03748d1be60f0b49b0c2448a2cd2">
+        <dex dex="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr223_7b57a31ed7642d0b2d427609934122cdb81efb20\classes.dex" />
+    </item>
+    <item
+        jar="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\exploded-aar\framework-debug\jars\libs\jnlua-android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="311620da751c862c2e89df099b51a622ff52d977">
+        <dex dex="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\transforms\dex\debug\folders\1000\10\jnlua-android_9588257344c9b2dd3d0fd922a0340579803e4eca\classes.dex" />
+    </item>
+    <item
+        jar="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c4297ebd2580e7a017f0e42fa2605d9d4d2a71e0">
+        <dex dex="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b3cfd6c17f13ec24cb3aab61d1359a89590e3a0c\classes.dex" />
+    </item>
+    <item
+        jar="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\exploded-aar\framework-debug\jars\libs\VrApi.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4937c3ae7c714c0138f15e51845ebc5661e749b7">
+        <dex dex="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\transforms\dex\debug\folders\1000\10\VrApi_08190fd8f259dc14abc29b9ae54c503260edde4f\classes.dex" />
+    </item>
+    <item
+        jar="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="824fbdebf6bfd8528c713e7a1745a1bf737eb197">
+        <dex dex="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9b1cd492c3496546ff529d8398b99e0bc36c4b91\classes.dex" />
+    </item>
+    <item
+        jar="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\exploded-aar\google-vr-base\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a70a6b6d2d4980e1b3cf97012a0063596ec9b84b">
+        <dex dex="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-google-vr-base_1b3b0b9a85fd978b37e1336a7e097c70f6d2a052\classes.dex" />
+    </item>
+    <item
+        jar="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\exploded-aar\framework-debug\jars\libs\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d2c264521f956eb26011e4c1d56af5e7b381cf2e">
+        <dex dex="C:\work\GearVRf-Demos\gvr-events\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_54d5f42a0d5cfc35bcabdb3b89741394eeeebcbf\classes.dex" />
+    </item>
+
+</items>

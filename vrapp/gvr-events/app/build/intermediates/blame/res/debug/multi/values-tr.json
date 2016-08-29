@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\values-tr\\values-tr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 94,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 94,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 77,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 77,
+                        "endOffset": 496
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 148,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 148,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 122,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 122,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 83,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 773,
+                        "endColumn": 83,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 634,
+                    "endColumn": 82,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 82,
+                        "endOffset": 935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 251,
+                    "endOffset": 964
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 940,
+                        "endColumn": 251,
+                        "endOffset": 1187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 969,
+                    "endColumn": 220,
+                    "endOffset": 1185
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1192,
+                        "endColumn": 220,
+                        "endOffset": 1408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1190,
+                    "endColumn": 98,
+                    "endOffset": 1284
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1413,
+                        "endColumn": 98,
+                        "endOffset": 1507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1289,
+                    "endColumn": 107,
+                    "endOffset": 1392
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1512,
+                        "endColumn": 107,
+                        "endOffset": 1615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1397,
+                    "endColumn": 110,
+                    "endOffset": 1503
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1620,
+                        "endColumn": 110,
+                        "endOffset": 1726
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1508,
+                    "endColumn": 134,
+                    "endOffset": 1638
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1731,
+                        "endColumn": 134,
+                        "endOffset": 1861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1643,
+                    "endColumn": 164,
+                    "endOffset": 1803
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1866,
+                        "endColumn": 164,
+                        "endOffset": 2026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1808,
+                    "endColumn": 101,
+                    "endOffset": 1905
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2031,
+                        "endColumn": 101,
+                        "endOffset": 2128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1910,
+                    "endColumn": 78,
+                    "endOffset": 1984
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2133,
+                        "endColumn": 78,
+                        "endOffset": 2207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1989,
+                    "endColumn": 87,
+                    "endOffset": 2072
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2212,
+                        "endColumn": 87,
+                        "endOffset": 2295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2077,
+                    "endColumn": 100,
+                    "endOffset": 2173
+                },
+                "from": {
+                    "file": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2300,
+                        "endColumn": 100,
+                        "endOffset": 2396
+                    }
+                }
+            }
+        ]
+    }
+]

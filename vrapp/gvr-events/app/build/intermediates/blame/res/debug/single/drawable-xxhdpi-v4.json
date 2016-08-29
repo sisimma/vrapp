@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_arrow_back_white_24.png",
+        "source": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-xxhdpi-v4\\quantum_ic_arrow_back_white_24.png"
+    },
+    {
+        "merged": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_arrow_upward_white_24.png",
+        "source": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-xxhdpi-v4\\quantum_ic_arrow_upward_white_24.png"
+    },
+    {
+        "merged": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_settings_white_24.png",
+        "source": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-xxhdpi-v4\\quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\quantum_ic_arrow_downward_white_24.png",
+        "source": "C:\\work\\GearVRf-Demos\\gvr-events\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-xxhdpi-v4\\quantum_ic_arrow_downward_white_24.png"
+    }
+]
