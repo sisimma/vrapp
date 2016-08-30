@@ -15,19 +15,29 @@
 
 package org.gearvrf.gvr360Photo;
 
+import android.graphics.Color;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.ImageView;
 
 import org.gearvrf.GVRActivity;
+import org.gearvrf.scene_objects.view.GVRFrameLayout;
 
 public class Minimal360PhotoActivity extends GVRActivity
 {
+    private GVRFrameLayout frameLayout;
+    private ImageView iv_Screen;
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
+        frameLayout = new GVRFrameLayout(this);
+        frameLayout.setBackgroundColor(Color.WHITE);
+        View.inflate(this, R.layout.main, frameLayout);
+        iv_Screen = (ImageView) frameLayout.findViewById(R.id.imageScreen);
 
-        Minimal360PhotoMain main = new Minimal360PhotoMain();
+        Minimal360PhotoMain main = new Minimal360PhotoMain(this, frameLayout, iv_Screen);
         setMain(main, "gvr.xml");
     }
 }
