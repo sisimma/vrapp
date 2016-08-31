@@ -55,6 +55,8 @@ public class Minimal360PhotoMain extends GVRMain {
     public void onInit(GVRContext gvrContext) {
         mGVRContext = gvrContext;
         mLayoutSceneObject = new GVRViewSceneObject(mGVRContext, frameLayout, mGVRContext.createQuad(QUAD_X, QUAD_Y));
+        mLayoutSceneObject.getTransform().setScale(3.0f, 3.0f, 3.0f);
+
         // get a handle to the scene
         GVRScene mainScene = gvrContext.getNextMainScene();
 /*
@@ -90,14 +92,16 @@ public class Minimal360PhotoMain extends GVRMain {
 
         // create a sphere scene object with the specified texture and triangles facing inward (the 'false' argument) 
         sphereObject = new GVRSphereSceneObject(gvrContext, false, texture);
+        sphereObject.getTransform().setScale(10.0f, 10.0f, 10.0f);
 
         //sphereObject.getRenderData().getMaterial().setOpacity(0.5f);
         // add the scene object to the scene graph
         mainScene.addSceneObject(sphereObject);
-        mainScene.getMainCameraRig().getTransform().setPosition(-1.0f, 0.0f, 0.0f);
+        mainScene.getMainCameraRig().getTransform().setPosition(0.0f, 0.0f, 0.0f);
         mainScene.addSceneObject(mLayoutSceneObject);
         mLayoutSceneObject.getTransform().setPosition(0.0f, 0.0f, -5.0f);
-        mLayoutSceneObject.getTransform().rotateByAxisWithPivot(70.0f, 0.0f, 1.0f, 0.0f, 0.0f, 0.0f, 0.0f);
+        mLayoutSceneObject.getTransform().rotateByAxisWithPivot(-100.0f, 0.0f, 1.0f, 0.0f, 0.0f, 0.0f, 0.0f);
+        mLayoutSceneObject.getTransform().rotateByAxisWithPivot(-30.0f, 0.0f, 1.0f, 0.0f, 5.0f, 0.0f, 0.0f);
         frameWidth = frameLayout.getWidth();
         frameHeight =  frameLayout.getHeight();
 
