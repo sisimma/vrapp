@@ -15,18 +15,39 @@
 
 package org.gearvrf.gvr360Photo;
 
+import android.content.Intent;
 import android.graphics.Color;
+import android.net.Uri;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
+
+import com.github.barteksc.pdfviewer.PDFView;
 
 import org.gearvrf.GVRActivity;
 import org.gearvrf.scene_objects.view.GVRFrameLayout;
 
 public class Minimal360PhotoActivity extends GVRActivity
 {
+    private static final String TAG = "PDFViewActivity";
     private GVRFrameLayout frameLayout;
     private ImageView iv_Screen;
+    private final static int REQUEST_CODE = 42;
+
+    public static final String SAMPLE_FILE = "sample.pdf";
+
+
+    PDFView pdfView;
+
+
+    Uri uri;
+
+
+    Integer pageNumber = 0;
+
+    String pdfFileName;
+
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState)
@@ -35,9 +56,25 @@ public class Minimal360PhotoActivity extends GVRActivity
         frameLayout = new GVRFrameLayout(this);
         frameLayout.setBackgroundColor(Color.WHITE);
         View.inflate(this, R.layout.main, frameLayout);
-        iv_Screen = (ImageView) frameLayout.findViewById(R.id.imageScreen);
+        pdfView = (PDFView) frameLayout.findViewById(R.id.pdfView);
 
         Minimal360PhotoMain main = new Minimal360PhotoMain(this, frameLayout, iv_Screen);
         setMain(main, "gvr.xml");
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        int itemId_ = item.getItemId();
+        if (itemId_ == R.id.pickFile) {
+            pickFile();
+            return true;
+        }
+        return super.onOptionsItemSelected(item);
+    }
+
+    void pickFile() {
+        Intent intent = new Intent(Intent.ACTION_GET_CONTENT);
+        intent.setType("application/pdf");
+        startActivityForResult(intent, REQUEST_CODE);
     }
 }

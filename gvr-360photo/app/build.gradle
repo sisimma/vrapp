@@ -28,3 +28,7 @@ android {
         }
     }
 }
+
+dependencies {
+    compile project(':android-pdf-viewer')
+}

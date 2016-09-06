@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\work\\github\\vrapp\\gvr-360photo\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_bottom.xml",
+        "source": "C:\\work\\github\\vrapp\\gvr-360photo\\android-pdf-viewer\\src\\main\\res\\drawable\\default_scroll_handle_bottom.xml"
+    },
+    {
+        "merged": "C:\\work\\github\\vrapp\\gvr-360photo\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_top.xml",
+        "source": "C:\\work\\github\\vrapp\\gvr-360photo\\android-pdf-viewer\\src\\main\\res\\drawable\\default_scroll_handle_top.xml"
+    },
+    {
+        "merged": "C:\\work\\github\\vrapp\\gvr-360photo\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_right.xml",
+        "source": "C:\\work\\github\\vrapp\\gvr-360photo\\android-pdf-viewer\\src\\main\\res\\drawable\\default_scroll_handle_right.xml"
+    },
+    {
+        "merged": "C:\\work\\github\\vrapp\\gvr-360photo\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_left.xml",
+        "source": "C:\\work\\github\\vrapp\\gvr-360photo\\android-pdf-viewer\\src\\main\\res\\drawable\\default_scroll_handle_left.xml"
+    }
+]
