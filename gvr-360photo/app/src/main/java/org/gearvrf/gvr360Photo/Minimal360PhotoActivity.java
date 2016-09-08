@@ -16,19 +16,28 @@
 package org.gearvrf.gvr360Photo;
 
 import android.content.Intent;
+import android.database.Cursor;
 import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
+import android.provider.OpenableColumns;
+import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 
 import com.github.barteksc.pdfviewer.PDFView;
+import com.github.barteksc.pdfviewer.listener.OnLoadCompleteListener;
+import com.github.barteksc.pdfviewer.listener.OnPageChangeListener;
+import com.github.barteksc.pdfviewer.scroll.DefaultScrollHandle;
+import com.shockwave.pdfium.PdfDocument;
 
 import org.gearvrf.GVRActivity;
 import org.gearvrf.scene_objects.view.GVRFrameLayout;
 
-public class Minimal360PhotoActivity extends GVRActivity
+import java.util.List;
+
+public class Minimal360PhotoActivity extends GVRActivity implements OnPageChangeListener, OnLoadCompleteListener
 {
     private static final String TAG = "PDFViewActivity";
     private GVRFrameLayout frameLayout;
@@ -57,24 +66,52 @@ public class Minimal360PhotoActivity extends GVRActivity
         frameLayout.setBackgroundColor(Color.WHITE);
         View.inflate(this, R.layout.main, frameLayout);
         pdfView = (PDFView) frameLayout.findViewById(R.id.pdfView);
-
+        displayFromAsset(SAMPLE_FILE);
         Minimal360PhotoMain main = new Minimal360PhotoMain(this, frameLayout, iv_Screen);
         setMain(main, "gvr.xml");
     }
+    private void displayFromAsset(String assetFileName) {
+        pdfFileName = assetFileName;
 
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        int itemId_ = item.getItemId();
-        if (itemId_ == R.id.pickFile) {
-            pickFile();
-            return true;
-        }
-        return super.onOptionsItemSelected(item);
+        pdfView.fromAsset(pdfFileName)
+                .defaultPage(pageNumber)
+                .onPageChange(this)
+                .enableAnnotationRendering(true)
+                .onLoad(this)
+                .scrollHandle(new DefaultScrollHandle(this))
+                .load();
     }
 
-    void pickFile() {
-        Intent intent = new Intent(Intent.ACTION_GET_CONTENT);
-        intent.setType("application/pdf");
-        startActivityForResult(intent, REQUEST_CODE);
+    @Override
+    public void onPageChanged(int page, int pageCount) {
+        pageNumber = page;
+        setTitle(String.format("%s %s / %s", pdfFileName, page + 1, pageCount));
+    }
+
+    @Override
+    public void loadComplete(int nbPages) {
+        PdfDocument.Meta meta = pdfView.getDocumentMeta();
+        Log.e(TAG, "title = " + meta.getTitle());
+        Log.e(TAG, "author = " + meta.getAuthor());
+        Log.e(TAG, "subject = " + meta.getSubject());
+        Log.e(TAG, "keywords = " + meta.getKeywords());
+        Log.e(TAG, "creator = " + meta.getCreator());
+        Log.e(TAG, "producer = " + meta.getProducer());
+        Log.e(TAG, "creationDate = " + meta.getCreationDate());
+        Log.e(TAG, "modDate = " + meta.getModDate());
+
+        printBookmarksTree(pdfView.getTableOfContents(), "-");
+
+    }
+
+    public void printBookmarksTree(List<PdfDocument.Bookmark> tree, String sep) {
+        for (PdfDocument.Bookmark b : tree) {
+
+            Log.e(TAG, String.format("%s %s, p %d", sep, b.getTitle(), b.getPageIdx()));
+
+            if (b.hasChildren()) {
+                printBookmarksTree(b.getChildren(), sep + "-");
+            }
+        }
     }
 }

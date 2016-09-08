@@ -33,6 +33,9 @@ android {
         targetSdkVersion 23
         versionCode 1
         versionName "2.0.3"
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a", "x86", "mips"
+        }
     }
 
 }
