@@ -27,4 +27,13 @@ android {
                      rootProject.name + ".apk")
         }
     }
+    defaultConfig {
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a", "x86", "mips"
+        }
+    }
+}
+
+dependencies {
+    compile project(':android-pdf-viewer')
 }
